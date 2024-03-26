@@ -5,15 +5,6 @@
 - 🖥️ Cursando Sistemas de Informação na Universidade do Sul de Santa Catarina (Unisul)
 - 🎓 Técnico em Informática pelo Instituto Federal Catarinense
 
-<div>
-  <a href="https://github.com/Alexandre-Ventura/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Alexandre-Ventura&theme=transparent" />
-  </a>
-  <a href="https://github.com/Alexandre-Ventura/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Alexandre-Ventura&layout=compact&langs_count=8&card_width=320&theme=transparent" />
-  </a>
-  <hr>
-</div>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
